@@ -62,7 +62,6 @@ Também possuo nível intermediário de inglês, sou medalhista de bronze na Can
 -----
 
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
-
 <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 
 -----
