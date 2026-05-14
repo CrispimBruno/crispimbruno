@@ -24,7 +24,7 @@ Também possuo nível intermediário de inglês, sou medalhista de bronze na Can
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+ <td align="center" colspan="11" width="100%"></td>
 </tr> 
 <tr>
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
