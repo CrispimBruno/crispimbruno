@@ -2,7 +2,7 @@
 <img align="center" alt="Header" src="img/github-header-banner.png" />
 </div>
 
------
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0398.gif" border="0" alt="linha-imagem-animada-0398" /></a>
 
 <table>
 <tr>
@@ -93,7 +93,6 @@ Também possuo nível intermediário de inglês, sou medalhista de bronze na Can
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31rhts7hk7ntbsmwc65qz7wb6sa4&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/CrispimBruno" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=CrispimBruno&width=400"/></a>
 </td>
 </tr>
