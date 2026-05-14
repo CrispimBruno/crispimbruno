@@ -101,12 +101,3 @@ Também possuo nível intermediário de inglês, sou medalhista de bronze na Can
 </tr> 
 </table>
 </div>
-
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
