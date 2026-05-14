@@ -9,7 +9,7 @@
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
-<td width="500px" >
+<td width="100%" >
 <div align="justify">
 <p> 
 Me chamo Crispim Bruno, sou estudante do 1º período de Engenharia de Software na PUC Coração Eucarístico e estou começando minha jornada no desenvolvimento de software. Tenho interesse em Python, tecnologia e no universo geek, sempre buscando aprender coisas novas e evoluir como programador. 🚀
