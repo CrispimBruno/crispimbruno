@@ -1,7 +1,9 @@
 <div>
-<img align="center" alt="Header" src="<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/cd3475c9-9e8f-4dcf-98a5-1c0b4cbd3396" />
+<img align="center" alt="Header" src="![alt text](img\github-header-banner.png)" />
 "/>
 </div>
+
+-----
 
 <div align="center">
 <table>
@@ -40,3 +42,24 @@
 </tr> 
 </table>
 </div>
+
+-----
+
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
+
+
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/crispimbruno" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/crispimbruno/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
