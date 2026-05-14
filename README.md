@@ -10,6 +10,7 @@
 </tr> 
 <tr>
 <td width="100%" >
+ <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" border="0" alt="linha-imagem-animada-0446" /></a>
 <div align="justify">
 <p> 
 Me chamo Crispim Bruno, sou estudante do 1º período de Engenharia de Software na PUC Coração Eucarístico e estou começando minha jornada no desenvolvimento de software. Tenho interesse em Python, tecnologia e no universo geek, sempre buscando aprender coisas novas e evoluir como programador. 🚀
@@ -17,14 +18,11 @@ Me chamo Crispim Bruno, sou estudante do 1º período de Engenharia de Software 
 Também possuo nível intermediário de inglês, sou medalhista de bronze na Canguru de Matemática e recebi menção honrosa na OBMEP
 </p>
 </div>
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" border="0" alt="linha-imagem-animada-0446" /></a>
 </td>
-
------
 
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
-
------
 
 <table>
 <tr>
@@ -39,6 +37,12 @@ Também possuo nível intermediário de inglês, sou medalhista de bronze na Can
 </table>
 
 -----
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://cripimbruno.github.io/image/spotify.svg?v=1&cb=1"/> Cripim's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
+</details>
+</div>
 
 <div align="center">
 <table>
