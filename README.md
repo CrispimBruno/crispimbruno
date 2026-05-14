@@ -4,6 +4,23 @@
 
 -----
 
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+Me chamo Crispim Bruno, sou estudante do 1º período de Engenharia de Software na PUC Coração Eucarístico e estou começando minha jornada no desenvolvimento de software. Tenho interesse em Python, tecnologia e no universo geek, sempre buscando aprender coisas novas e evoluir como programador. 🚀
+
+Também possuo nível intermediário de inglês, sou medalhista de bronze na Canguru de Matemática e recebi menção honrosa na OBMEP
+</p>
+</div>
+</td>
+
+-----
+
 <div align="center">
 <table>
 <tr>
@@ -48,6 +65,7 @@
 
 <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=crispimbruno&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 
+-----
 
 <table>
 <tr>
